@@ -1,0 +1,4 @@
+#Bot de discord feito utilizando python
+#Criado durante estudo sobre funções Async e ações com Await.
+#Consome REST API de pokeapi.co, que consulta uma base de dados e retorna dados sobre o pokemon procurado.
+#Também consome uma API do LibGen, capaz de procurar livros disponíveis para download
